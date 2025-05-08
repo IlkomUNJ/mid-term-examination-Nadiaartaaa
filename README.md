@@ -5,6 +5,7 @@ This repo contain the complete source code of binary search tree implementation.
 
 Name: Nadia Artamelina
 NIM : 1313623057
+Ilmu Komputer A 2023
 
 Put on the above field, your identity. 
 
