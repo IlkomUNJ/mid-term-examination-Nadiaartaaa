@@ -62,6 +62,7 @@ fn test_binary_search_tree(){
     let main_tree_path = "bst_graph.dot";
     generate_dotfile_bst(&rootlink, main_tree_path);
 
+
     //tree search test
     let search_keys = vec![15, 9, 22];
 
